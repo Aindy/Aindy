@@ -4,12 +4,6 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -19,7 +13,7 @@
 - 🌱 I’m currently learning **ML** and approve my skills in **Python**
 - 📝 I regularly write articles on my blog <link soon>
 - 📄 Know about my experiences [CV]([cv-li](https://cosmic-dahlia-31e.notion.site/Andy-Makhmudov-787af3652f884872a67b0f0529ca57a7))
-- 📫 Reach me by [Telegram](https://t.me/Aindi_M), [email](mahmudovayndi@gmail.com)
+- 📫 Reach me by [Telegram](https://t.me/Aindi_M), [Email](mahmudovayndi@gmail.com)
 - 🌍 I speak Russia and little English
 
 ---
