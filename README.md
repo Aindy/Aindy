@@ -14,7 +14,7 @@
 - 📝 I regularly write articles on my blog <link soon>
 - 📄 Know about my experiences [CV](https://cosmic-dahlia-31e.notion.site/Andy-Makhmudov-787af3652f884872a67b0f0529ca57a7)
 - 📫 Reach me by [Telegram](https://t.me/Aindi_M), [Email](mahmudovayndi@gmail.com)
-- 🌍 I speak Russia and little English
+- 🌍 I speak on few langs Russia, Chechen, English and Arabic
 
 ---
 
